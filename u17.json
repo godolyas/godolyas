@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Biruk belachew",
+        "number": "12",
+        "bio": "Talented Defender Biruk belachew joined since 2013.",
+        "photo": "./u20/Biruk.png",
+        "position": "Defender"
+    },
+    {
+        "name": "simon mekbeb",
+        "number": "14",
+        "bio": "Talented Defender simon mekbeb joined since 2015.",
+        "photo":"./u15/simon.png",
+        "position": "Defender"
+    },
+    {
+        "name": "yonas gebre",
+        "number": "6",
+        "bio": "Talented Defender yonas gebre joined since 2014.",
+        "photo":"./u15/yonas.png",
+        "position": "Defender"
+    },
+    {
+        "name": "Dawit fikru",
+        "number": "9",
+        "bio": "Talented Midfielder Dawit fikru joined recently.",
+        "photo":"./u20/Dawit.png",
+        "position": "Midfielder"
+    },
+    {
+        "name": "mikias zerihun",
+        "number": "29",
+        "bio": "Talented Midfielder mikias zerihun joined since 2015.",
+        "photo":"./u15/mikias.png",
+        "position": "Midfielder"
+    },
+    {
+        "name": "tarik sintayew",
+        "number": "46",
+        "bio": "Talented Midfielder tarik sintayew joined since 2015.",
+        "photo":"./u15/tarik.png",
+        "position": "Midfielder"
+    },
+    {
+        "name": "yabsira fisha",
+        "number": "46",
+        "bio": "Talented Midfielder yabsira fisha joined since 2015.",
+        "photo":"./u15/yabsira.png",
+        "position": "Midfielder"
+    },
+    {
+        "name": "Henok tsegaye",
+        "number": "15",
+        "bio": "Talented FORWARDER Henok tsegaye joined since 2015.",
+        "photo":"./u20/Henok.png",
+        "position": "Forwarder"
+    },
+    {
+        "name": "Nahom amha",
+        "number": "10",
+        "bio": "Talented Defender Nahom amha joined since 2015.",
+        "photo":"./u20/Nahom.png",
+        "position": "Forwarder"
+    },
+    {
+        "name": "Fedel shewangezaw",
+        "number": "21",
+        "bio": "Talented Defender Fedel shewangezaw joined since 2015.",
+        "photo":"./u20/Fedel.png",
+        "position": "Forwarder"
+    },
+    {
+        "name": "Abrham ayenew",
+        "number": "8",
+        "bio": "Talented Midfielder Abrham ayenew joined since 2015.",
+        "photo":"./u20/Abrham.png",
+        "position": "Forwarder"
+    },
+    {
+        "name": "Yoseph megersa",
+        "number": "11",
+        "bio": "Talented Defender Yoseph megersa joined since 2015.",
+        "photo":"./u20/Yoseph.png",
+        "position": "Forwarder"
+    }
+]
